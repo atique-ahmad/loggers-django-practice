@@ -1,8 +1,10 @@
-{"asctime": "2023-10-19 10:07:54,216", "levelname": "INFO", "message": "Watching for file changes with StatReloader"}
-{"asctime": "2023-10-19 10:08:07,379", "levelname": "WARNING", "message": "Not Found: /", "status_code": 404, "request": "<WSGIRequest: GET '/'>"}
-{"asctime": "2023-10-19 10:08:17,033", "levelname": "WARNING", "message": "Not Found: /logapp/", "status_code": 404, "request": "<WSGIRequest: GET '/logapp/'>"}
-{"asctime": "2023-10-19 10:08:17,824", "levelname": "WARNING", "message": "Not Found: /logapp/", "status_code": 404, "request": "<WSGIRequest: GET '/logapp/'>"}
-{"asctime": "2023-10-19 10:08:18,312", "levelname": "WARNING", "message": "Not Found: /logapp/", "status_code": 404, "request": "<WSGIRequest: GET '/logapp/'>"}
-{"asctime": "2023-10-19 10:08:25,754", "levelname": "INFO", "message": "This is an example log message."}
-{"asctime": "2023-10-19 10:16:30,110", "levelname": "INFO", "message": "/Users/itnoc9_august/Desktop/loggers-django-practice/logproject/logproject/settings.py changed, reloading."}
-{"asctime": "2023-10-19 10:16:30,432", "levelname": "INFO", "message": "Watching for file changes with StatReloader"}
+{"asctime": "2023-10-19 10:38:47,680", "levelname": "INFO", "message": "Watching for file changes with StatReloader"}
+{"asctime": "2023-10-19 10:38:51,317", "levelname": "WARNING", "message": "Not Found: /", "status_code": 404, "request": "<WSGIRequest: GET '/'>"}
+{"asctime": "2023-10-19 10:38:51,428", "levelname": "WARNING", "message": "Not Found: /favicon.ico", "status_code": 404, "request": "<WSGIRequest: GET '/favicon.ico'>"}
+{"asctime": "2023-10-19 10:38:59,845", "levelname": "WARNING", "message": "Not Found: /logapp", "status_code": 404, "request": "<WSGIRequest: GET '/logapp'>"}
+{"asctime": "2023-10-19 10:39:04,687", "levelname": "WARNING", "message": "Not Found: /logapp/", "status_code": 404, "request": "<WSGIRequest: GET '/logapp/'>"}
+{"asctime": "2023-10-19 10:39:11,079", "levelname": "INFO", "message": "This is an example log message."}
+{"asctime": "2023-10-19 10:39:28,563", "levelname": "ERROR", "message": "Division by zero", "operation": "divide", "x": 8.0, "y": 0.0}
+{"asctime": "2023-10-19 10:40:58,458", "levelname": "INFO", "message": "Division operation", "operation": "divide", "x": 8.0, "y": 9.0, "result": 0.8888888888888888}
+{"asctime": "2023-10-19 10:41:04,719", "levelname": "INFO", "message": "Subtraction operation", "operation": "subtract", "x": 8.0, "y": 9.0, "result": -1.0}
+{"asctime": "2023-10-19 10:41:07,638", "levelname": "INFO", "message": "Multiplication operation", "operation": "multiply", "x": 8.0, "y": 9.0, "result": 72.0}
