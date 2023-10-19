@@ -13,3 +13,5 @@
 {"asctime": "2023-10-19 10:59:17,024", "levelname": "WARNING", "message": "This is a warning message"}
 {"asctime": "2023-10-19 10:59:17,024", "levelname": "ERROR", "message": "This is an error message"}
 {"asctime": "2023-10-19 10:59:17,024", "levelname": "CRITICAL", "message": "This is a critical message"}
+{"asctime": "2023-10-19 11:38:42,065", "levelname": "INFO", "message": "Watching for file changes with StatReloader"}
+{"asctime": "2023-10-19 11:39:05,890", "levelname": "INFO", "message": "Addition operation", "operation": "add", "x": 4.0, "y": -1.0, "result": 3.0}
