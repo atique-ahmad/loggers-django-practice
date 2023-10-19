@@ -6,7 +6,11 @@ import logging
 logger = logging.getLogger(__name__)
 
 def log_view(request):
-    logger.info('This is an example log message.')
+    logger.debug("This is a debug message")
+    logger.info("This is an info message")
+    logger.warning("This is a warning message")
+    logger.error("This is an error message")
+    logger.critical("This is a critical message")
     return JsonResponse({'message': 'log messages!'})
 
 

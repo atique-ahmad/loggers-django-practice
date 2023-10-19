@@ -8,3 +8,8 @@
 {"asctime": "2023-10-19 10:40:58,458", "levelname": "INFO", "message": "Division operation", "operation": "divide", "x": 8.0, "y": 9.0, "result": 0.8888888888888888}
 {"asctime": "2023-10-19 10:41:04,719", "levelname": "INFO", "message": "Subtraction operation", "operation": "subtract", "x": 8.0, "y": 9.0, "result": -1.0}
 {"asctime": "2023-10-19 10:41:07,638", "levelname": "INFO", "message": "Multiplication operation", "operation": "multiply", "x": 8.0, "y": 9.0, "result": 72.0}
+{"asctime": "2023-10-19 10:59:13,647", "levelname": "INFO", "message": "Watching for file changes with StatReloader"}
+{"asctime": "2023-10-19 10:59:17,023", "levelname": "INFO", "message": "This is an info message"}
+{"asctime": "2023-10-19 10:59:17,024", "levelname": "WARNING", "message": "This is a warning message"}
+{"asctime": "2023-10-19 10:59:17,024", "levelname": "ERROR", "message": "This is an error message"}
+{"asctime": "2023-10-19 10:59:17,024", "levelname": "CRITICAL", "message": "This is a critical message"}
