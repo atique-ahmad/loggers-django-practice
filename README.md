@@ -43,9 +43,7 @@ Django's built-in logging framework and configure it to format log messages as J
   <img width="1017" alt="image" src="https://github.com/atique-ahmad/loggers-django-practice/assets/125459998/74659971-3169-4ff9-bd9d-1b124b051cca">
 - logging: loggers, handlers, and formatters
   <img width="1016" alt="image" src="https://github.com/atique-ahmad/loggers-django-practice/assets/125459998/accc1bd5-c9ce-4fb4-8e98-67f0f0aeb5f6">
-- Reference Link:
-  YouTube: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado
-  Doc.: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado
+
 - **Results**
 - handlers': ['file']
   <img width="1644" alt="image" src="https://github.com/atique-ahmad/loggers-django-practice/assets/125459998/a40871c9-9295-426f-b087-476c8faac6e2">
@@ -53,4 +51,7 @@ Django's built-in logging framework and configure it to format log messages as J
 - handlers': ['console']
   <img width="1112" alt="image" src="https://github.com/atique-ahmad/loggers-django-practice/assets/125459998/d0655b8e-54a7-4458-92e5-115e4649b311">
 
+- Reference Link:
+  - YouTube: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado
+  - Doc.: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado
   
