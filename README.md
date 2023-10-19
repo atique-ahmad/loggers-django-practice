@@ -53,5 +53,5 @@ Django's built-in logging framework and configure it to format log messages as J
 
 - Reference Link:
   - YouTube: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado
-  - Doc.: https://www.youtube.com/watch?v=b4Ms4wxJuPg&ab_channel=teclado / https://b0uh.github.io/django-json-logging.html
+  - Doc.: https://docs.djangoproject.com/en/4.2/howto/logging/#naming-loggers-hierarchy / https://b0uh.github.io/django-json-logging.html
   
